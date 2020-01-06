@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is B043-EABD
+
+ Directory of D:\DevOps\git
+
+06-01-2020  10:32    <DIR>          .
+06-01-2020  10:32    <DIR>          ..
+05-01-2020  23:46                 7 git.txt
+05-01-2020  23:46                 0 test1.txt
+06-01-2020  10:32                 0 test2.txt
+               3 File(s)              7 bytes
+               2 Dir(s)  349,795,467,264 bytes free
